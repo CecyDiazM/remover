@@ -1,4 +1,10 @@
 🖼️ AI Image Background Remover | Python & Computer Vision
+
+## 🎥 Demo en Vivo
+Si quieres ver el removedor de fondos procesando imágenes en tiempo real, mira el video demostrativo aquí:
+
+[![Ver en LinkedIn](https://img.shields.io/badge/LinkedIn-Ver%20Video%20Demostraci%C3%B3n-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/feed/update/urn:li:activity:7472745654767796225/)
+
 Este proyecto es una aplicación web e inteligente que procesa imágenes cargadas por el usuario para detectar el sujeto principal y remover el fondo de forma automática, precisa y en tiempo real utilizando modelos de Inteligencia Artificial.  
 📋 El Problema que Soluciona
 Tradicionalmente, aislar un objeto o persona de su fondo original requería software de diseño costoso (como Adobe Photoshop) y habilidades técnicas avanzadas en edición digital. En entornos de producción rápida como el comercio electrónico (E-commerce), creación de contenido o marketing, este proceso manual genera varios inconvenientes: 
